@@ -1,7 +1,2 @@
 OWNER_PRIVATE_KEY=
-MINTER_PRIVATE_KEY=
 CONTRACT_ADDRESS=
-# First NFT recipient (receives 1,2)
-RECIPIENT_ONE=
-# Second NFT recipient (receives 3)
-RECIPIENT_TWO=
